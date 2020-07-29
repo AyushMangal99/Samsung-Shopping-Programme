@@ -1,6 +1,8 @@
 # Samsung-Shopping-Programme
 A shopping programme developed on Netbeans Platform and used Mysql for Database.
 This programme uses Java Abstract Window Toolkit provided by Netbeans.
+
+Process to be followed.
 Unzip the file on desktop and open in Netbeans6.5.1 .
 import the .sql file into the mysql5.1 to import follow the steps
 1. open mysql command line and enter password.

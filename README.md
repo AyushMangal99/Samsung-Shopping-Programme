@@ -18,7 +18,7 @@ import the .sql file into the mysql5.1 to import follow the steps
 
 5.write given command on command prompt:  cd "<copied path>"
 
-6.write given command on command prompt:  mysql -u <password> -p a <"sqp file path\a.sql"
+6.write given command on command prompt:  mysql -u password -p a <"sqp file path\a.sql"
 
 7.for example:   mysql -u root -p a < "C:\Users\Admin\Desktop\a.sql"  and successfuly imported.
   
